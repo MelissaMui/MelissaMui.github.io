@@ -1,0 +1,90 @@
+ body {
+            background-color:bisque;
+            padding-bottom: 50px;
+        }
+        
+        h1 {
+            font-family: "century gothic", serif;
+            font-weight: bold;
+            font-size: 500%;
+            text-align: center;
+            color: royalblue;
+            text-transform: uppercase;
+        }
+        
+        h2 {
+            font-family: bodoni, serif;
+            font-weight: bold;
+            font-style:italic;
+            font-size: 300%;
+            padding-left: 30px;
+            text-decoration: underline;
+            color:darkorchid;
+        }
+        
+        p {
+            font-family: "century gothic", serif;
+            font-size: 25px;
+        }
+        
+        p2, ol {
+            font-family: "century gothic", serif;
+            font-size: 20px;
+        }
+        table {
+            font-family: bodoni, serif;
+            font-size: 100%;
+            font-weight: normal;
+            font-style:italic;
+            width: 100%;
+        }
+        th {
+            border-radius: 30px;
+            border: 1px solid mediumblue;
+            background-color: azure;
+            padding: 10px;
+        }
+        .smaller-image {
+            width: 15px;
+        }
+        
+        .profile {
+            width: 400px;
+            float: right;
+            border-radius: 30%;
+            padding-top: 30px;
+            padding-right: 20px;
+        }
+        
+        #maincontent {
+            border-color:purple;
+            border-style: dashed;
+            border-radius: 30px;
+            padding: 10px;
+            width: 65%;
+            position:relative;
+            left: 10px;
+            top: 30px;
+            padding-left: 30px;
+        }
+        
+        footer {
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            text-align: center;
+            font-family: "century gothic", serif;
+            background-color: azure;
+        }
+        
+        #Contact {
+            border-color:purple;
+            border-style: solid;
+            border-radius: 30px;
+            padding: 10px;
+            width: 65%;
+            position:relative;
+            left: 10px;
+            top: 30px;
+            padding-left: 30px;
+        }

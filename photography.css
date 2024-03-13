@@ -1,0 +1,62 @@
+        body {
+            background-color:lightcyan;
+            padding-bottom: 30px;
+        }
+        
+        h1 {
+            font-family: "century gothic", serif;
+            font-weight: bold;
+            font-size: 500%;
+            text-align: center;
+            color: royalblue;
+            text-transform: uppercase;
+        }
+        
+        h2 {
+            font-family: bodoni, serif;
+            font-weight: bold;
+            font-style:italic;
+            font-size: 300%;
+            padding: 30px;
+            color: lightseagreen;
+        }
+        
+        p {
+            font-family: "century gothic", serif;
+            padding-left: 30px;
+        }
+        
+        table {
+            font-family: bodoni, serif;
+            font-size: 100%;
+            font-weight: normal;
+            font-style:italic;
+            width: 100%;
+            border-spacing: 20px;
+            padding: 10px;
+            text-align: center;
+        }
+        
+        th {
+            border-radius: 30px;
+            border: 1px solid mediumblue;
+            background-color: azure;
+            padding: 10px;
+        }
+        
+        .smaller-image {
+            width: 15px;
+        }
+        
+        img {
+            width: 400px;
+        }
+        
+        footer {
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            text-align: center;
+            font-family: "century gothic", serif;
+            background-color: azure;
+        }

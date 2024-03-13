@@ -1,0 +1,112 @@
+body {
+            background-color:lightyellow;
+            padding-bottom: 30px;
+            margin: 30px;
+        }
+        
+        h1 {
+            font-family: "century gothic", serif;
+            font-weight: bold;
+            font-size: 500%;
+            text-align: center;
+            color: royalblue;
+            text-transform: uppercase;
+        }
+        
+         h2 {
+            font-family: bodoni, serif;
+            font-weight: bold;
+            font-style:italic;
+            font-size: 300%;
+            text-align: center;
+            text-decoration: dashed underline;
+        }
+        
+        #navigation {
+            font-family: bodoni, serif;
+            font-size: 100%;
+            font-weight: normal;
+            font-style:italic;
+            width: 100%;
+        }
+        
+        #skills td {
+        font-family: "century gothic", serif;
+        font-weight: normal;
+        border: 1px solid black;
+        padding: 10px;
+        }
+        
+        #skills th {
+        font-family: "century gothic", serif;
+        font-weight: bold;
+        border: 1px solid black;
+        padding: 10px;
+        background-color: lightpink;
+        }
+        
+        #navigation th {
+            border-radius: 30px;
+            border: 1px solid mediumblue;
+            background-color: azure;
+            padding: 10px;
+        }
+    
+        .education {
+            width: 50%;
+            position:relative;
+            font-size: 20px;
+        }
+        
+        .experience {
+            font-family: "century gothic", serif;
+            border-spacing: 10px;
+            padding-top: 30px;
+            font-size: 18px;
+        }
+        
+        td {
+            font-family: "century gothic", serif;
+            font-style: oblique;
+            padding: 10px;
+        }
+        
+        .experience th {
+            font-family: "century gothic", serif;
+            padding: 10px;
+            text-transform: uppercase;
+        }
+        
+        .smaller-image {
+            width: 15px;
+        }
+        
+        .exposure {
+            width: 650px;
+            float: right;
+            border: 2px solid powderblue;
+        }
+        
+        p {
+            font-family: bodoni, serif;
+            font-weight: bold;
+            font-style:italic;
+            font-size: 30px;
+        }
+        
+        ul, ol {
+            font-family: "century gothic", serif;
+        }
+        
+        ul2 {
+            float: right;
+        }
+        
+        footer {
+            position: fixed;
+            bottom: 0px;
+            width: 100%;
+            text-align: center;
+            font-family: "century gothic", serif;
+            background-color: azure;
+        }
